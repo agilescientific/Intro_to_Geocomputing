@@ -1,0 +1,11 @@
+channels:
+- conda-forge
+- defaults
+dependencies:
+- jupyter
+- scipy
+- matplotlib
+- pip:
+  - segyio
+  - welly
+  - bruges
