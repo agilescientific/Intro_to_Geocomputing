@@ -18,9 +18,11 @@
 - 05: Plot a topographic map
 - 10: Make a 3D visualization
 - 15: Calculating acoustic impedance: variables and assignment
-- 20: Representing rocks: native types and type casting (mention type hints)
-- 25: Geological objects: passing data around with dicts
+- 18: Representing rocks: numbers
+- 20: Representing rocks: text
+- 25: Geological abstractions: lists
 - 30: Operating on time and space: loops and if
+- 25: Geological objects: passing data around with dicts
 - 35: Dealing with messy data: text processing
 - 40: Processing a data file: reading files
 - 45: Computing elastic parameters: operators and expressions
